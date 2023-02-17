@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/251499cf63e84a0e82df448c1a66f03a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/251499cf63e84a0e82df448c1a66f03a
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
