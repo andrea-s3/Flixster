@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <a href="https://www.loom.com/share/251499cf63e84a0e82df448c1a66f03a">
-    <p>Library | Loom - 16 February 2023 - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/251499cf63e84a0e82df448c1a66f03a-with-play.gif">
   </a>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
